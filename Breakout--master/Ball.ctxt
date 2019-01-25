@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ball\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Ball()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ball.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\ \r\n\ @return\ Does\ not\ return\ anything\r\n
+comment3.params=
+comment3.target=void\ ballMovement()
+comment3.text=\r\n\ ballMovement\ is\ the\ method\ that\ sets\ the\ boundries\ of\ the\ world\ so\ the\ ball\ will\ be\ able\ to\ bouce\ off,\ and\r\n\ removes\ the\ squares\ from\ the\ world\ if\ the\ ball\ has\ been\ toched.\ this\ method\ also\ makes\ the\ ball\ bouce\ off\ the\ paddles.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Does\ not\ return\ anything\r\n
+comment4.params=
+comment4.target=void\ rotate()
+comment4.text=\r\n\ rotate\ is\ the\ method\ that\ allows\ the\ ball\ to\ rotate\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Does\ not\ return\ anything\r\n
+numComments=5
